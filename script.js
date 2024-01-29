@@ -1,5 +1,3 @@
-
-
 //topics we want our AI to write about: 
 const contentTopics = {
     "Technology": [
